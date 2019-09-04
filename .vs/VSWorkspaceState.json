@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\module1",
+    "\\module1\\package",
+    "\\module1\\package\\lambdata_jordanireland"
+  ],
+  "SelectedNode": "\\module1\\package\\lambdata_jordanireland\\__init__.py",
+  "PreviewInSolutionExplorer": false
+}
