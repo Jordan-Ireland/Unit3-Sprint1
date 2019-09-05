@@ -7,6 +7,7 @@ verify_ssl = true
 
 [packages]
 pandas = "*"
+jordan-ireland-package = {index = "https://test.pypi.org/simple/",version = "*"}
 
 [requires]
 python_version = "3.7"
