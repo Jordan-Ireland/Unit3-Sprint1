@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\module1",
-    "\\module1\\package",
-    "\\module1\\package\\lambdata_jordanireland"
+    "\\module1\\package\\lambdata_jordanireland",
+    "\\OOP-Review",
+    "\\OOP-Review\\football"
   ],
-  "SelectedNode": "\\module1\\package\\lambdata_jordanireland\\__init__.py",
+  "SelectedNode": "\\OOP-Review\\football\\possible_values.py",
   "PreviewInSolutionExplorer": false
 }
